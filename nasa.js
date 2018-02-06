@@ -18,7 +18,6 @@
     GET /captions/{nasa_id}	Retrieving a video asset’s captions location
 */
 
-// My Key nuObM1zZYvw5ZqrZKV7LQBGkaiuFX3VRqA1B4MUm
 // Example of call https://api.nasa.gov/planetary/apod?api_key=nuObM1zZYvw5ZqrZKV7LQBGkaiuFX3VRqA1B4MUm
 
 // Address https://api.nasa.gov/api.html#Images
